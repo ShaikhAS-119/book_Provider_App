@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Book Support</string>
+
+    <!--  <String-array name="data">
+        <item>first</item>
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+    </String-array>-->
+
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="publisher_name">Publisher name</string>
+    <string name="book_name">Book name</string>
+    <string name="writer_name">Writer name</string>
+    <string name="price">Price</string>
+    <string name="pdf_details">PDF DETAILS</string>
+    <string name="upload_book_photo">Upload BOOK Photo</string>
+    <string name="old_book">Old Book</string>
+    <string name="new_book">New Book</string>
+    <string name="pdfs">pdfs</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="desc">desc</string>
+    <string name="Desc">desc</string>
+    <string name="descr">desc</string>
+    <string name="post_book">POST BOOK</string>
+    <string name="get_book">GET BOOK</string>
+    <string name="upload_pdf">Upload PDF</string>
+    <string name="mydescription">mydescription</string>
+    <string name="textview1" />
+    <string name="textview3" />
+    <string name="textview2" />
+    <string name="bookdetails">Bookdetails:</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="select_pdf_from_storage">select pdf from storage</string>
+    <string name="pdf_detail_s">PDF DETAIL\'s</string>
+
+
+</resources>
